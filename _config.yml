@@ -4,3 +4,4 @@ theme: minima
 collections:
   parcours:
     output: true
+    permalink: /:collection/:name/
