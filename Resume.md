@@ -4,9 +4,9 @@ date: 2025-01-21
 ---
 <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
 
-![image](https://github.com/user-attachments/assets/97cb7aae-3b14-4e30-a275-dbca3c773704) ![image](https://github.com/user-attachments/assets/8dcbce8c-4139-4343-8e5a-8039e8945421)<br>
-![image](https://github.com/user-attachments/assets/fac958ce-dc2c-4cae-b8dd-e7c7e5fcbdd6) ![image](https://github.com/user-attachments/assets/e5f74cd4-b0d9-4da1-82a9-0b170a3fe3d4)
 
+![image](https://github.com/user-attachments/assets/fac958ce-dc2c-4cae-b8dd-e7c7e5fcbdd6)![image](https://github.com/user-attachments/assets/8dcbce8c-4139-4343-8e5a-8039e8945421)<br> 
+![image](https://github.com/user-attachments/assets/97cb7aae-3b14-4e30-a275-dbca3c773704)![image](https://github.com/user-attachments/assets/e5f74cd4-b0d9-4da1-82a9-0b170a3fe3d4)
 
 Centres d'intérêt
 Lecture, Musique, Voyages
