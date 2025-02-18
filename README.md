@@ -8,7 +8,7 @@ _Ce Repository contient quelques réalisations pour comprendre ma démarche et m
 
 ## 🎒Mon Parcours
 
-* Accéder à mon CV
+* [Accéder à mon CV](documents/mon_rapport.pdf)
 
 ## 📋Ma démarche : une approche personnalisée et axée sur les résultats
 
