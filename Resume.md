@@ -8,7 +8,7 @@ date: 2025-01-21
   <div class="skill">
     <div class="skill-name">Python</div>
     <div class="progress-bar-container">
-      <div class="progress-bar" style="width: 90%;">90%</div>
+      <div class="progress-bar" style="width: 85%;">85%</div>
     </div>
   </div>
   <div class="skill">
@@ -18,9 +18,24 @@ date: 2025-01-21
     </div>
   </div>
   <div class="skill">
+    <div class="skill-name">ETL</div>
+    <div class="progress-bar-container">
+      <div class="progress-bar" style="width: 25%;">25%</div>
+    </div>
+  </div>
+</div>
+  <div class="skill">
     <div class="skill-name">Data Visualization</div>
     <div class="progress-bar-container">
       <div class="progress-bar" style="width: 75%;">75%</div>
+    </div>
+  </div>
+</div>
+</div>
+  <div class="skill">
+    <div class="skill-name">Excel</div>
+    <div class="progress-bar-container">
+      <div class="progress-bar" style="width: 90%;">90%</div>
     </div>
   </div>
 </div>
