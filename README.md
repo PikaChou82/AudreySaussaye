@@ -1,54 +1,42 @@
 <header>
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+# Portfolio
 
-# GitHub Pages
-
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+_Ce Repository contient quelques réalisations pour comprendre ma démarche et ma méthode de travail_
 
 </header>
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
+## 🎒Mon Parcours
 
-## Step 1: Enable GitHub Pages
+* Accéder à mon CV
 
-_Welcome to GitHub Pages and Jekyll :tada:!_
+## 📋Ma démarche : une approche personnalisée et axée sur les résultats
 
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
+Forte de 20 ans d'expérience en finance, j'ai développé une approche de travail rigoureuse et orientée vers la création de valeur. Chaque projet est pour moi une aventure unique, et je m'investis pleinement pour comprendre vos besoins et vous proposer des solutions adaptées.
 
-### :keyboard: Activity: Enable GitHub Pages
+1. **Écoute et compréhension** : la clé d'un partenariat réussi<br>
+Votre satisfaction est ma priorité. Je prends le temps de vous écouter attentivement pour bien comprendre vos objectifs, vos enjeux et vos contraintes. Cette étape est essentielle pour définir ensemble les indicateurs clés de performance (KPI) qui nous permettront de mesurer le succès de notre collaboration.
 
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
+2. **Exploration et analyse** : au cœur de la donnée<br>
+Je me plonge ensuite dans l'exploration de vos données, de votre contexte métier et de vos objectifs. Cette phase d'analyse approfondie me permet d'identifier les tendances, les anomalies et les opportunités qui se cachent derrière les chiffres. Je n'hésite pas à remettre en question les idées reçues et à explorer de nouvelles pistes pour vous apporter un éclairage original et pertinent.
 
+3. **Prévision** _(optionnel)_ : anticiper pour mieux agir<br>
+Si votre projet s'y prête, je peux mettre en place des modèles prédictifs pour anticiper les évolutions de votre activité. Cette démarche vous permet de mieux comprendre les facteurs qui influencent vos résultats et de prendre des décisions éclairées pour l'avenir.
+
+4. **Visualisation et communication** : des informations claires et accessibles<br>
+Je transforme ensuite les données brutes en informations visuelles percutantes et faciles à comprendre. Je crée des tableaux de bord interactifs et des rapports personnalisés qui vous permettent de suivre en temps réel l'évolution de vos indicateurs clés et de prendre les bonnes décisions au bon moment.
+
+5. **Formation et accompagnement** : pour une autonomie durable<br>
+Je vous accompagne dans la prise en main des outils et des méthodes que je mets en place. Je vous forme à la lecture des tableaux de bord et des rapports, afin que vous puissiez exploiter pleinement les résultats de mon travail et développer votre autonomie en matière de data analyse.
+
+## ⌨️Projets
+
+1. Analyse sur l'observation des écureuils à Central Park
+1. Analyse sur la santé et le Covid 19
+1. Analyse sur le Titanic
+   
 <footer>
 
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+&copy; 2025 Audrey Saussaye &bull; [Mon Profil Linkedin](https://www.linkedin.com/in/audrey-saussaye-4241aa25/)
 
 </footer>
