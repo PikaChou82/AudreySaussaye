@@ -4,9 +4,4 @@ Audrey SAUSSAYE : Bienvenue dans mon Portfolio
 
 ## Mon Parcours
 
-{% for parcours in site.pages %}
-  {% if parcours.path contains '_parcours' %}
-    - [{{ parcours.title }}]({{ parcours.url }})
-  {% endif %}
-{% endfor %}
-
+[Mon CV](https://raw.githubusercontent.com/PikaChou82/AudreySaussaye/refs/heads/main/_parcours/2025-01-21-title.md)
