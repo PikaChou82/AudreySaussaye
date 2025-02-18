@@ -7,43 +7,7 @@ date: 2025-01-21
 ![image](https://github.com/user-attachments/assets/97cb7aae-3b14-4e30-a275-dbca3c773704) ![image](https://github.com/user-attachments/assets/8dcbce8c-4139-4343-8e5a-8039e8945421)<br>
 ![image](https://github.com/user-attachments/assets/fac958ce-dc2c-4cae-b8dd-e7c7e5fcbdd6) ![image](https://github.com/user-attachments/assets/e5f74cd4-b0d9-4da1-82a9-0b170a3fe3d4)
 
-Langues
-Anglais
-Professionnel
-Hard Skills
-Python
-Numpy, Pandas, Seaborn, NLP, Machine
-Learning
-SQL
-Administration, Manipulation et Analyse de
-Bases de Données
-ETL
-MageAI, Knime, DBT
-Data Visualisation
-Power BI, QlikSense, TM1, Tableau, Cegid,
-Dynamcis
-Excel
-Maîtrise des fonctions et formules liées à la
-synthèse et restitution de données, et création
-de macros.
-Soft Skills
-Sens de l'écoute et de la communication
-Esprit de synthèse et d'analyse
-Curiosité et goût pour l'optimisation
-Pédagogie
-Gestion de Projets
-Rigueur
-Atouts
-Appétence Outils
-De formation initiale en informatique, j'aime
-découvrir et maîtriser les outils les plus
-pertinents aux besoins des équipes.
-Appétence Business
-Mon expérience de contrôleur de gestion, puis
-DAF, m'ont toujours mené à maîtriser toutes les
-secteurs et départements de mes sociétés, an
-de répondre au mieux aux besoins de
-l'organisation.
+
 Centres d'intérêt
 Lecture, Musique, Voyages
 Audrey SAUSSAYE
