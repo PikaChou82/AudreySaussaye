@@ -4,6 +4,9 @@ date: 2025-01-21
 ---
 <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
 
+ 
+## **Hard Skills**
+
 <div class="skills-container">
   <div class="skill">
     <div class="skill-name">Python</div>
