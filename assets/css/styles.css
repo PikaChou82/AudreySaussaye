@@ -24,7 +24,7 @@ body {
 }
 
 .progress-bar-container {
-  background-color: #ddd;
+  background-color: #333333;
   border-radius: 25px;
   overflow: hidden;
 }
