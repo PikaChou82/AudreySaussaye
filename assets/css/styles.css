@@ -5,3 +5,32 @@ body {
   margin: 0 auto;
   padding: 20px;
 }
+
+.skills-container {
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.skill {
+  margin: 10px 0;
+}
+
+.skill-name {
+  font-weight: bold;
+}
+
+.progress-bar-container {
+  background-color: #ddd;
+  border-radius: 25px;
+  overflow: hidden;
+}
+
+.progress-bar {
+  height: 20px;
+  border-radius: 25px;
+  background-color: #4caf50;
+  text-align: center;
+  color: white;
+  line-height: 20px; /* Match height to center text vertically */
+}
