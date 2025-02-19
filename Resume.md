@@ -42,6 +42,8 @@ date: 2025-01-21
     </div>
   </div>
   <div class="empty-block"></div>
+  </div>
+  <div class="skills-container">
   <div class="empty-block"></div>
   <div class="skill">
      <div class="skill-name">Data Visualization</div>
