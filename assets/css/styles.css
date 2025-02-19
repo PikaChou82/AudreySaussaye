@@ -54,7 +54,7 @@ body {
   text-align: center;
   color: white;
   line-height: 7px; /* Ajuster line-height à la nouvelle hauteur */
-  width: 100px; /* La barre de progression occupe toute la largeur du conteneur */
+  width: 90%; /* La barre de progression occupe toute la largeur du conteneur */
 }
 
 .skill-details {
