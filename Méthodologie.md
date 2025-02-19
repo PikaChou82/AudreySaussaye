@@ -1,5 +1,5 @@
 ---
-title: "💼 Parcours"
+title: "📋 Méthodologie"
 date: 2025-01-21
 ---
 <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
@@ -9,7 +9,7 @@ date: 2025-01-21
 <br>
 
 
-## 📋Ma démarche : une approche personnalisée et axée sur les résultats
+# **Ma démarche : une approche personnalisée et axée sur les résultats**
 
 Forte de 20 ans d'expérience en finance, j'ai développé une approche de travail rigoureuse et orientée vers la création de valeur. Chaque projet est pour moi une aventure unique, et je m'investis pleinement pour comprendre vos besoins et vous proposer des solutions adaptées.
 
