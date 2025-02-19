@@ -6,10 +6,19 @@ body {
   padding: 20px;
 }
 
-display: flex;
+
+.skills-container {
+  display: flex;
   flex-wrap: wrap;
   gap: 10px;
-}.skill {
+}
+
+.skills-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.skill {
   flex: 1;
   min-width: 100px; /* Ajustez selon le besoin */
 }.skill-name {
