@@ -118,7 +118,7 @@ date: 2025-01-21
     <img src="images/your-image.jpg" alt="Your Image">
   </div>
   <div class="text-container">
-      ## Data Analyst
+      ## Data Analyst 
       **De septembre 2024 à février 2025** Wild Code School Paris
       *Formation en BootCamp*
       *   Dataviz (Power BI, Tableau)
