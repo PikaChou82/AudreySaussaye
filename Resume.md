@@ -170,7 +170,7 @@ date: 2025-01-21
       maîtrise des coûts</li>
       </ul>
       <h2>Analyste Fonctionnel</h2>
-      <strong>De décembre 2004 à juin 2006</strong>strong> Mister Good Deal Chilly Mazarin
+      <strong>De décembre 2004 à juin 2006</strong> Mister Good Deal Chilly Mazarin
       <ul>
       <li>Optimisation et mise en place d'outils pour le département financier</li>
       </ul>
