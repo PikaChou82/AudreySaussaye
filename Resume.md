@@ -41,7 +41,6 @@ date: 2025-01-21
        MageAI, Knime, DBT
     </div>
   </div>
-  <div class="empty-block"></div>
   </div>
   <div class="skills-container">
   <div class="empty-block"></div>
@@ -102,8 +101,7 @@ date: 2025-01-21
         
       </div>
   </div>
-  
-  <div class="empty-block"></div> 
+ 
   </div>
   <div class="skills-container">  
   <div class="empty-block"></div> 
