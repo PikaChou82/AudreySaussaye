@@ -6,34 +6,29 @@ body {
   padding: 20px;
 }
 
-.skills-container {
-  display: flex;
+display: flex;
   flex-wrap: wrap;
   gap: 10px;
-}
-
-.skill {
+}.skill {
   flex: 1;
   min-width: 100px; /* Ajustez selon le besoin */
-}
-
-.skill-name {
+}.skill-name {
   font-weight: bold;
   text-align: center;
   margin-bottom: 5px;
-}
-
-.progress-bar-container {
-  background-color: ##525252;
+  /* Ajout pour le titre */
+  font-family: 'Arial', sans-serif; /* Exemple de police */
+  font-size: 0.9em; /* Exemple de taille (0.9 fois la taille par défaut) */
+}.progress-bar-container {
+  background-color: #525252;
   border-radius: 25px;
   overflow: hidden;
-}
-
-.progress-bar {
-  height: 20px;
+}.progress-bar {
+  /* Ajout pour l'épaisseur */
+  height: 7px; /* Exemple: 7px d'épaisseur */
   border-radius: 25px;
   background-color: #FFFFFF;
   text-align: center;
   color: white;
-  line-height: 20px; /* Match height to center text vertically */
+  line-height: 10px; /* Ajuster line-height à la nouvelle hauteur */
 }
