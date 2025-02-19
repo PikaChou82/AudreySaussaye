@@ -1,5 +1,5 @@
 ---
-title: "💼 Mon Parcours"
+title: "💼 Mon parcours"
 date: 2025-01-21
 ---
 <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
