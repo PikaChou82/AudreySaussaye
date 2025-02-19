@@ -33,14 +33,15 @@ date: 2025-01-21
     </div>
   </div>
   <div class="skill">
-     <div class="skill-name">ETL</div>
-     <div class="progress-bar-container">
-       <div class="progress-bar" style="width: 25%;"></div>
-     </div>
-    <div class="skill-details">
-       MageAI, Knime, DBT
+      <div class="skill-name">Excel</div>
+      <div class="progress-bar-container">
+        <div class="progress-bar" style="width: 90%;"></div>
+      </div>
+      <div class="skill-details">
+        Maîtrise des fonctions et formules liées à la synthèse et restitution de données, et création de macros
+      </div>
     </div>
-  </div>
+  
   </div>
   <div class="skills-container">
   <div class="empty-block"></div>
@@ -54,14 +55,14 @@ date: 2025-01-21
      </div>
    </div>
    <div class="skill">
-      <div class="skill-name">Excel</div>
-      <div class="progress-bar-container">
-        <div class="progress-bar" style="width: 90%;"></div>
-      </div>
-      <div class="skill-details">
-        Maîtrise des fonctions et formules liées à la synthèse et restitution de données, et création de macros
-      </div>
+     <div class="skill-name">ETL</div>
+     <div class="progress-bar-container">
+       <div class="progress-bar" style="width: 25%;"></div>
+     </div>
+    <div class="skill-details">
+       MageAI, Knime, DBT
     </div>
+  </div>
 </div>
 
 <br>
