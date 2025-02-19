@@ -113,13 +113,11 @@ date: 2025-01-21
 
 # Parcours Professionnel
 
-<div class="cv-container">
-  <div class="column">    
-    <img src="images/your-image.jpg" alt="Your Image" class="cv-image">
-    <div class="vertical-line"></div>
+<div class="container">
+  <div class="image-container">
+    <img src="images/your-image.jpg" alt="Your Image">
   </div>
-  <div class="column">
-    <div class="text-content">
+  <div class="text-container">
 
       ## Data Analyst
 
@@ -181,10 +179,8 @@ date: 2025-01-21
       **De décembre 2004 à juin 2006** Mister Good Deal Chilly Mazarin
 
       *   Optimisation et mise en place d'outils pour le département financier
-    </div>
   </div>
 </div>
-
 
 
 ![image](https://github.com/user-attachments/assets/fac958ce-dc2c-4cae-b8dd-e7c7e5fcbdd6)![image](https://github.com/user-attachments/assets/8dcbce8c-4139-4343-8e5a-8039e8945421)<br> 
