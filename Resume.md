@@ -24,12 +24,12 @@ date: 2025-01-21
     </div>
   </div>
   <div class="skill">
-    <div class="skill-name">SQL</div>
-    <div class="progress-bar-container">
-      <div class="progress-bar" style="width: 80%;"></div>
-    </div>
+     <div class="skill-name">ETL</div>
+     <div class="progress-bar-container">
+       <div class="progress-bar" style="width: 25%;"></div>
+     </div>
     <div class="skill-details">
-      Administration, Manipulation et Analyse de Bases de Données
+       MageAI, Knime, DBT
     </div>
   </div>
   <div class="skill">
@@ -54,15 +54,16 @@ date: 2025-01-21
        Power BI, QlikSense, TM1, Tableau, Cegid, Dynamcis
      </div>
    </div>
-   <div class="skill">
-     <div class="skill-name">ETL</div>
-     <div class="progress-bar-container">
-       <div class="progress-bar" style="width: 25%;"></div>
-     </div>
+    <div class="skill">
+    <div class="skill-name">SQL</div>
+    <div class="progress-bar-container">
+      <div class="progress-bar" style="width: 80%;"></div>
+    </div>
     <div class="skill-details">
-       MageAI, Knime, DBT
+      Administration, Manipulation et Analyse de Bases de Données
     </div>
   </div>
+   
 </div>
 
 <br>
