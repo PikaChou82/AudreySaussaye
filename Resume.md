@@ -145,7 +145,7 @@ date: 2025-01-21
       <li>ETL, Plateformes collaboratives, API, Webscrapping & Apps (Streamlit)</li>
       </ul>
       <h2>Directrice Administrative et Financière</h2> 
-      <strong>De mai 2021 à mars 2024</strong>strong> Pierre Cattier Bondoufle
+      <strong>De mai 2021 à mars 2024</strong> Pierre Cattier Bondoufle
       <ul>
       <li>Chef de projet & Admin sur la mise en place d'un nouvel ERP pour améliorer
       la gestion des données financières (Qlik)</li>
@@ -154,14 +154,14 @@ date: 2025-01-21
       p.)</li>
       </ul>
       <h2>Responsable du Contrôle de Gestion</h2> 
-      <strong>De mars 2017 à mai 2021</strong>strong> Pierre Cattier Bondoufle
+      <strong>De mars 2017 à mai 2021</strong> Pierre Cattier Bondoufle
       <ul>
       <li>Mise en place d'un processus de suivi budgétaire mensuel</li>
       <li>Formation des équipes internes à l'utilisation de l'outil décisionnel pour une
       meilleure autonomie dans l'analyse des données</li>
       </ul>
       <h2>Financial Analyst</h2> 
-      <strong>De février 2015 à février 2017</strong>strong> Fresh Del Monte Rungis
+      <strong>De février 2015 à février 2017</strong> Fresh Del Monte Rungis
       <ul>
       <li>Mise en place du contrôle de gestion opérationnel de l'entité France du
       groupe et du processus budgétaire</li>
