@@ -74,6 +74,9 @@ date: 2025-01-21
       <div class="progress-bar-container">
         <div class="progress-bar" style="width: 90%;"></div>
       </div>
+      <div class="skill-details">
+        
+      </div>
     </div>
   </div>
   <div class="skill">
@@ -81,23 +84,35 @@ date: 2025-01-21
     <div class="progress-bar-container">
       <div class="progress-bar" style="width: 90%;"></div>
     </div>
+    <div class="skill-details">
+        
+      </div>
     </div>
   <div class="skill">
      <div class="skill-name">Curiosité et goût pour l'optimisation</div>
      <div class="progress-bar-container">
        <div class="progress-bar" style="width: 95%;"></div>
      </div>
+    <div class="skill-details">
+        
+      </div>
   </div>
   <div class="skill">
      <div class="skill-name">Pédagogie</div>
      <div class="progress-bar-container">
        <div class="progress-bar" style="width: 75%;"></div>
      </div>
+    <div class="skill-details">
+        
+      </div>
    </div>
    <div class="skill">
       <div class="skill-name">Gestion de Projets</div>
       <div class="progress-bar-container">
         <div class="progress-bar" style="width: 50%;"></div>
+      </div>
+     <div class="skill-details">
+        
       </div>
    </div>
   <div class="skill">
@@ -105,6 +120,9 @@ date: 2025-01-21
        <div class="progress-bar-container">
          <div class="progress-bar" style="width: 90%;"></div>
        </div>
+    <div class="skill-details">
+        
+      </div>
    </div>
 </div>
 
@@ -117,7 +135,7 @@ date: 2025-01-21
 
 <div class="container">
   <div class="image-container">
-    <img src="images/your-image.jpg" alt="Your Image">
+    <img src="images/barre.jpg" alt="Your Image">
   </div>
   <div class="text-container">
       <h2>Data Analyst</h2> 
