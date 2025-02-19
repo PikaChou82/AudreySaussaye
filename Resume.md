@@ -62,7 +62,6 @@ date: 2025-01-21
         Maîtrise des fonctions et formules liées à la synthèse et restitution de données, et création de macros
       </div>
     </div>
-  <div class="empty-block"></div> 
 </div>
 
 <br>
