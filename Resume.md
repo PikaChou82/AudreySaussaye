@@ -10,7 +10,6 @@ date: 2025-01-21
 
 ## **Hard Skills**
 
-<br>
 
 <div class="skills-container">
   <div class="skill">
@@ -66,7 +65,6 @@ date: 2025-01-21
 
 ## **Soft Skills**
 
-<br>
 
 <div class="skills-container">
   <div class="skill">
@@ -131,7 +129,6 @@ date: 2025-01-21
 
 ## **Parcours Professionnel**
 
-<br>
 
 <div class="container">
   <div class="image-container">
@@ -195,6 +192,10 @@ date: 2025-01-21
   </div>
 </div>
 
+<br>
+<br>
+
+## **Formation**
 
 Centres d'intérêt
 Lecture, Musique, Voyages
