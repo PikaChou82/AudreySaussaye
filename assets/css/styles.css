@@ -71,7 +71,7 @@ body {
     align-items: flex-start;
   }
   .image-container {
-    width: 100%;
+    width: 100px;
     margin-right: 20px;
   }
 
