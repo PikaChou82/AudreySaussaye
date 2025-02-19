@@ -26,10 +26,11 @@ body {
   align-items: center; /* Centre les éléments horizontalement dans le skill */
 }
 .empty-block {
-  
   width: 10%; /* La largeur du bloc vide */
   height: 50px; /* La hauteur du bloc vide */
-  /* Ajoutez d'autres styles si nécessaire */
+  background-color: #333333; /* Couleur de fond pour rendre le bloc visible */
+  border: 1px solid #ccc; /* Bordure pour mieux voir le bloc */
+  margin: 10px 0; /* Marge pour espacer les blocs */
 }
 
 .skill-name {
