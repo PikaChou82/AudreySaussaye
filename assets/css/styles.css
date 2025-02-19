@@ -60,20 +60,22 @@ body {
 
 
 .container {
-  display: flex; /* Active Flexbox pour le conteneur */
-  align-items: flex-start; /* Alignement vertical au début des éléments */
+  display: flex;
+  align-items: center; /* Alignement vertical au centre */
+  flex-wrap: wrap; /* Passage à la ligne si nécessaire */
+  width: 100%; /* Le conteneur occupe toute la largeur disponible */
 }
 
 .image-container {
-  width: 200px; /* Largeur fixe pour l'image (ajuster si nécessaire) */
-  margin-right: 20px; /* Marge à droite de l'image */
+  width: 200px;
+  margin-right: 20px;
 }
 
 .image-container img {
-  max-width: 100%; /* L'image ne dépasse pas la largeur du conteneur */
-  height: auto; /* Hauteur ajustée automatiquement */
+  max-width: 100%;
+  height: auto;
 }
 
 .text-container {
-  flex: 1; /* Le texte occupe l'espace restant */
+  flex: 1;
 }
