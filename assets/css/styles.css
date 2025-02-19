@@ -18,7 +18,7 @@ display: flex;
   margin-bottom: 5px;
   /* Ajout pour le titre */
   font-family: 'Arial', sans-serif; /* Exemple de police */
-  font-size: 0.9em; /* Exemple de taille (0.9 fois la taille par défaut) */
+  font-size: 1em; /* Exemple de taille (0.9 fois la taille par défaut) */
 }.progress-bar-container {
   background-color: #525252;
   border-radius: 25px;
@@ -31,4 +31,10 @@ display: flex;
   text-align: center;
   color: white;
   line-height: 10px; /* Ajuster line-height à la nouvelle hauteur */
+}.skill-details {
+  text-align: center; /* Centre le texte */
+  margin-top: 5px; /* Espace entre la barre et le texte */
+  font-family: 'Arial', sans-serif; /* Exemple de police */
+  font-size: 0.9em; /* Taille légèrement plus petite */
+  color: #777; /* Couleur plus discrète */
 }
