@@ -44,7 +44,7 @@ body {
   background-color: #525252;
   border-radius: 25px;
   overflow: hidden;
-  width: 100px; /* La barre de progression occupe toute la largeur du conteneur */
+  width: 90%x; /* La barre de progression occupe toute la largeur du conteneur */
 }
 
 .progress-bar {
