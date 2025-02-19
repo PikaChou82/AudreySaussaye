@@ -1,6 +1,4 @@
 body {
-  background-color: #333333;
-  color: #FFFFFF; /* Pour que le texte soit lisible sur le fond noir */
   max-width: 1200px;
   margin: 0 auto;
   padding: 20px;
@@ -11,6 +9,8 @@ body {
   flex-wrap: wrap;
   gap: 10px;
   justify-content: center; /* Centre les éléments horizontalement */
+  background-color: #333333;
+  color: #FFFFFF; /* Pour que le texte soit lisible sur le fond noir */
 }
 
 .skill {
