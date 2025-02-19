@@ -68,6 +68,12 @@ body {
     width: 100px;
     margin-right: 20px;
   }
+
+  .image-container img {
+    width: 100%;
+    height: auto;
+    object-fit: cover; /* Pour s'assurer que l'image couvre tout le conteneur */
+  }
   .text-container {
     flex: 1;
     background-color: #FFFFFF;
