@@ -44,7 +44,7 @@ body {
   background-color: #525252;
   border-radius: 25px;
   overflow: hidden;
-  width: 100%; /* La barre de progression occupe toute la largeur du conteneur */
+  width: 100px; /* La barre de progression occupe toute la largeur du conteneur */
 }
 
 .progress-bar {
@@ -54,7 +54,7 @@ body {
   text-align: center;
   color: white;
   line-height: 7px; /* Ajuster line-height à la nouvelle hauteur */
-  width: 100%; /* La barre de progression occupe toute la largeur du conteneur */
+  width: 100px; /* La barre de progression occupe toute la largeur du conteneur */
 }
 
 .skill-details {
