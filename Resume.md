@@ -197,17 +197,19 @@ date: 2025-01-21
 
 ## **Formation**
 
-Centres d'intérêt
-Lecture, Musique, Voyages
-A
 
-
-
-Maîtrise en Administration et Gestion des Entreprises
-De septembre 2002 à juin 2004 Evry Val D'Essonne Évry
-DEUG Economie & Gestion
-De septembre 2001 à juin 2002 Evry Val d'Essonne Évry
-DEUG de Mathématiques et Informatiques Appliquées aux Sciences
-De septembre 1999 à juin 2001 Evry Val d'Essonne Évry
-BACCALAUREAT - Scientique
-De septembre 1998 à juin 1999 Lycée JP Timbaud Brétigny-sur-Orge
+<div class="container">
+  <div class="image-container">
+    <img src="images/diplome.jpg" alt="Your Image">
+  </div>
+  <div class="text-container">
+      <strong>Evry Val D'Essonne</strong>
+      <ul>
+      <li>Maîtrise en Administration et Gestion des Entreprises <em>De septembre 2002 à juin 2004</em></li>
+      <li>DEUG Economie & Gestion <em>De septembre 2001 à juin 2002</em></li>
+      <li>DEUG de Mathématiques et Informatiques Appliquées aux Sciences <em>De septembre 1999 à juin 2001</em></li>
+      </ul>
+      <strong>Lycée JP Timbaud</strong>
+      <ul>
+      <li>BACCALAUREAT - Scientique <em>juin 1999</em></li>
+      </ul>
