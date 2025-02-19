@@ -113,6 +113,8 @@ date: 2025-01-21
 
 # Parcours Professionnel
 
+<br>
+
 <div class="container">
   <div class="image-container">
     <img src="images/your-image.jpg" alt="Your Image">
