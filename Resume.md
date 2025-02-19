@@ -132,7 +132,6 @@ date: 2025-01-21
 
 <div class="container">
   <div class="image-container">
-    |
   </div>
   <div class="text-container">
       <h2><img src="images/wcs.png" alt="Your Image" width = "5%"> Data Analyst </h2>
