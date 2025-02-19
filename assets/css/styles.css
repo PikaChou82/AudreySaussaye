@@ -73,6 +73,7 @@ body {
   .text-container {
     flex: 1;
     background-color: #FFFFFF;
+    color: #333333;
   }
   .text-content {
     font-family: "Arial", sans-serif;
