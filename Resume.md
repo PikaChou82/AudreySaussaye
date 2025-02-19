@@ -13,30 +13,45 @@ date: 2025-01-21
     <div class="progress-bar-container">
       <div class="progress-bar" style="width: 85%;"></div>
     </div>
+    <div class="skill-details">
+      Numpy, Pandas, Seaborn, NLP, Machine Learning
+     </div>
   </div>
   <div class="skill">
     <div class="skill-name">SQL</div>
     <div class="progress-bar-container">
       <div class="progress-bar" style="width: 80%;"></div>
     </div>
+    <div class="skill-details">
+      Administration, Manipulation et Analyse de Bases de Données
+     </div>
   </div>
   <div class="skill">
     <div class="skill-name">ETL</div>
     <div class="progress-bar-container">
       <div class="progress-bar" style="width: 25%;"></div>
     </div>
+   <div class="skill-details">
+      MageAI, Knime, DBT
+     </div>
   </div>
   <div class="skill">
     <div class="skill-name">Data Visualization</div>
     <div class="progress-bar-container">
       <div class="progress-bar" style="width: 75%;"></div>
     </div>
+   <div class="skill-details">
+      Power BI, QlikSense, TM1, Tableau, Cegid, Dynamcis
+     </div>
   </div>
   <div class="skill">
     <div class="skill-name">Excel</div>
     <div class="progress-bar-container">
       <div class="progress-bar" style="width: 90%;"></div>
     </div>
+   <div class="skill-details">
+      Maîtrise des fonctions et formules liées à la synthèse et restitution de données, et création de macros.
+     </div>
   </div>
 </div>
 
