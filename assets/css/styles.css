@@ -44,7 +44,7 @@ body {
   background-color: #525252;
   border-radius: 25px;
   overflow: hidden;
-  width: 80%x; /* La barre de progression occupe toute la largeur du conteneur */
+  width: 80% !important;  /* La barre de progression occupe toute la largeur du conteneur */
 }
 
 .progress-bar {
@@ -54,7 +54,7 @@ body {
   text-align: center;
   color: white;
   line-height: 7px; /* Ajuster line-height à la nouvelle hauteur */
-  width: 80%; /* La barre de progression occupe toute la largeur du conteneur */
+  width: 80% !important;  /* La barre de progression occupe toute la largeur du conteneur */
 }
 
 .skill-details {
@@ -63,7 +63,7 @@ body {
   font-family: 'Arial', sans-serif;
   font-size: 0.9em;
   color: #777;
-  width: 80%; /* Le texte de détail occupe toute la largeur du conteneur */
+  width: 80% !important;  /* Le texte de détail occupe toute la largeur du conteneur */
 }
 
   .container {
