@@ -35,7 +35,7 @@ date: 2025-01-21
   <div class="skill">
       <div class="skill-name">Excel</div>
       <div class="progress-bar-container">
-        <div class="progress-bar" style="width: 90%;"></div><div class="empty-block"></div>
+        <div class="progress-bar" style="width: 90%;"></div><div class="skill-details">   </div>
       </div>
       <div class="skill-details">
         Maîtrise des fonctions et formules liées à la synthèse et restitution de données, et création de macros
