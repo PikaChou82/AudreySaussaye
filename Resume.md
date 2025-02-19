@@ -13,6 +13,10 @@ date: 2025-01-21
 
 <div class="skills-container">
   <div class="skill">
+    <div class="skill-content"> <div class="skill-name">  </div>
+    </div>
+  </div>
+  <div class="skill">
     <div class="skill-content"> <div class="skill-name">Python</div>
       <div class="progress-bar-container">
         <div class="progress-bar" style="width: 85%;"></div>
@@ -58,6 +62,10 @@ date: 2025-01-21
         Maîtrise des fonctions et formules liées à la synthèse et restitution de données, et création de macros
       </div>
     </div>
+  <div class="skill">
+    <div class="skill-content"> <div class="skill-name">  </div>
+    </div>
+  </div>
 </div>
 
 <br>
