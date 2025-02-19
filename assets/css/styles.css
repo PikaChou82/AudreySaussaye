@@ -25,6 +25,14 @@ body {
   flex-direction: column; /* Aligne les éléments verticalement */
   align-items: center; /* Centre les éléments horizontalement dans le skill */
 }
+.skill-content-small {
+  display: flex;
+  flex-direction: column; /* Aligne les éléments verticalement */
+  align-items: center; /* Centre les éléments horizontalement dans le skill */
+  font-size: 0.8em; /* Réduit la taille de la police */
+  padding: 10px; /* Réduit l'espace intérieur */
+  /* Ajoutez d'autres styles pour réduire la taille si nécessaire */
+}
 
 .skill-name {
   font-weight: bold;
