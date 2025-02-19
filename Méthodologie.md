@@ -28,9 +28,4 @@ Je transforme ensuite les données brutes en informations visuelles percutantes 
 5. **Formation et accompagnement** : pour une autonomie durable<br>
 Je vous accompagne dans la prise en main des outils et des méthodes que je mets en place. Je vous forme à la lecture des tableaux de bord et des rapports, afin que vous puissiez exploiter pleinement les résultats de mon travail et développer votre autonomie en matière de data analyse.
 
-## ⌨️Projets
-
-1. Analyse sur l'observation des écureuils à Central Park
-1. Analyse sur la santé et le Covid 19
-1. Analyse sur le Titanic
    
