@@ -58,51 +58,22 @@ body {
   width: 100%; /* Le texte de détail occupe toute la largeur du conteneur */
 }
 
-.cv-container {
-  background-color: white;
-  display: flex;
-  padding: 20px; /* Ajout d'une marge intérieure */
+
+.container {
+  display: flex; /* Active Flexbox pour le conteneur */
+  align-items: flex-start; /* Alignement vertical au début des éléments */
 }
 
-.column {
-  flex: 1;
-  padding: 20px;
+.image-container {
+  width: 200px; /* Largeur fixe pour l'image (ajuster si nécessaire) */
+  margin-right: 20px; /* Marge à droite de l'image */
 }
 
-.cv-image {
-  max-width: 100%;
-  height: auto;
-  margin-bottom: 20px; /* Ajout d'une marge en bas de l'image */
+.image-container img {
+  max-width: 100%; /* L'image ne dépasse pas la largeur du conteneur */
+  height: auto; /* Hauteur ajustée automatiquement */
 }
 
-.vertical-line {
-  width: 2px;
-  height: 100%;
-  background-color: black;
-  margin: 0 20px;
-}
-
-.text-content {
-  font-family: "Arial", sans-serif;
-  font-size: 14px;
-  color: #333;
-  line-height: 1.5;
-}
-
-/* Style pour les titres de section */
-.text-content h2 {
-  font-size: 1.2em;
-  font-weight: bold;
-  margin-top: 20px;
-}
-
-/* Style pour les dates */
-.text-content strong {
-  font-weight: bold;
-}
-
-/* Style pour les listes à puces */
-.text-content ul {
-  list-style-type: disc;
-  margin-left: 20px;
+.text-container {
+  flex: 1; /* Le texte occupe l'espace restant */
 }
