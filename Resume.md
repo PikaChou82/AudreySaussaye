@@ -24,14 +24,14 @@ date: 2025-01-21
     </div>
   </div>
   <div class="skill">
-     <div class="skill-name">ETL</div>
-     <div class="progress-bar-container">
-       <div class="progress-bar" style="width: 25%;"></div>
-     </div>
-    <div class="skill-details">
-       MageAI, Knime, DBT
-    </div>
+  <div class="skill-name">ETL</div>
+  <div class="progress-bar-container">
+    <div class="progress-bar" style="width: 25%;"></div>
   </div>
+  <div class="skill-details">
+    MageAI, Knime, DBT
+  </div>
+</div>
   <div class="skill">
       <div class="skill-name">Excel</div>
       <div class="progress-bar-container">
