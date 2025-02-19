@@ -77,35 +77,42 @@ body {
   .text-content {
     font-family: "Arial", sans-serif;
     font-size: 14px;
-    color: #333;
+    color: #333333;
     line-height: 1.5;
   }
   .text-content h2 {
     font-size: 1.2em;
     font-weight: bold;
+    color: #333333;
     margin-top: 20px;
   }
   .text-content strong {
     font-weight: bold;
+    color: #333333;
   }
   .text-content ul {
     list-style-type: disc;
     margin-left: 20px;
+    color: #333333;
   }
 .text-container h2 {
   font-size: 1.5em;
   margin-top: 0.5em;
+  color: #333333;
 }
 
 .text-container strong {
   font-weight: bold;
+  color: #333333;
 }
 
 .text-container em {
   font-style: italic;
+  color: #333333;
 }
 
 .text-container ul {
   list-style-type: disc;
   margin-left: 20px;
+  color: #333333;
 }
