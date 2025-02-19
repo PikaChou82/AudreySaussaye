@@ -41,6 +41,8 @@ date: 2025-01-21
        MageAI, Knime, DBT
     </div>
   </div>
+  <div class="empty-block"></div>
+  <div class="empty-block"></div>
   <div class="skill">
      <div class="skill-name">Data Visualization</div>
      <div class="progress-bar-container">
