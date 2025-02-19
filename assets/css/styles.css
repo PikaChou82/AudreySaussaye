@@ -3,6 +3,7 @@ body {
   margin: 0 auto;
   padding: 20px;
   background-color: #FFFFFF;
+  color: #333333;
 }
 
 .skills-container {
@@ -64,7 +65,7 @@ body {
     align-items: flex-start;
   }
   .image-container {
-    width: 200px;
+    width: 100px;
     margin-right: 20px;
   }
   .image-container img {
