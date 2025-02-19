@@ -72,7 +72,8 @@ date: 2025-01-21
 ## **Soft Skills**
 
 
-<div class="skills-container">
+<div class="skills-container">  
+  <div class="empty-block"></div> 
   <div class="skill">
     <div class="skill-content"> <div class="skill-name">Sens de l'écoute et de la communication</div>
       <div class="progress-bar-container">
@@ -101,6 +102,11 @@ date: 2025-01-21
         
       </div>
   </div>
+  
+  <div class="empty-block"></div> 
+  </div>
+  <div class="skills-container">  
+  <div class="empty-block"></div> 
   <div class="skill">
      <div class="skill-name">Pédagogie</div>
      <div class="progress-bar-container">
@@ -128,6 +134,8 @@ date: 2025-01-21
         
       </div>
    </div>
+   
+  <div class="empty-block"></div> 
 </div>
 
 <br>
