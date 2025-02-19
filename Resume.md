@@ -154,7 +154,6 @@ date: 2025-01-21
   <div class="image-container">
     <img src="images/work.jpg" alt="Your Image">
   </div>
-  </div>
   <div class="text-container">
       <h2><img src="images/wcs.png" alt="Your Image" width = "5%"> Data Analyst </h2>
       <strong>De septembre 2024 à février 2025</strong> Wild Code School Paris
