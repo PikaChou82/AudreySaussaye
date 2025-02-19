@@ -29,7 +29,7 @@ body {
   width: 10%; /* La largeur du bloc vide */
   height: 50px; /* La hauteur du bloc vide */
   background-color: #333333; /* Couleur de fond pour rendre le bloc visible */
-  border: 1px solid #ccc; /* Bordure pour mieux voir le bloc */
+  border: 1px solid #333333; /* Bordure pour mieux voir le bloc */
   margin: 10px 0; /* Marge pour espacer les blocs */
 }
 
