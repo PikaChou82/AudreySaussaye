@@ -118,40 +118,27 @@ date: 2025-01-21
     <img src="images/your-image.jpg" alt="Your Image">
   </div>
   <div class="text-container">
-
       ## Data Analyst
-
       **De septembre 2024 à février 2025** Wild Code School Paris
-
       *Formation en BootCamp*
-
       *   Dataviz (Power BI, Tableau)
       *   Manipulation & Analyse de données (Python, SQL)
       *   Machine Learning & NLP
       *   ETL, Plateformes collaboratives, API, Webscrapping & Apps (Streamlit)
-
       ## Directrice Administrative et Financière
-
       **De mai 2021 à mars 2024** Pierre Cattier Bondoufle
-
       *   Chef de projet & Admin sur la mise en place d'un nouvel ERP pour améliorer
       la gestion des données financières (Qlik)
       *   Construction & Analyse des KPI's
       *   Management des départements Comptabilité, Contrôle de Gestion & ADV (10
       p.)
-
       ## Responsable du Contrôle de Gestion
-
       **De mars 2017 à mai 2021** Pierre Cattier Bondoufle
-
       *   Mise en place d'un processus de suivi budgétaire mensuel
       *   Formation des équipes internes à l'utilisation de l'outil décisionnel pour une
       meilleure autonomie dans l'analyse des données
-
       ## Financial Analyst
-
       **De février 2015 à février 2017** Fresh Del Monte Rungis
-
       *   Mise en place du contrôle de gestion opérationnel de l'entité France du
       groupe et du processus budgétaire
       *   Analyse des écarts entre les prévisions et les résultats réels pour identifier les
@@ -159,25 +146,17 @@ date: 2025-01-21
       *   Collaboration avec les équipes opérationnelles pour la mise en place de
       prédictions
       *   Analyse des coûts de revient des produits pour optimiser la rentabilité
-
       ## Contrôleur de Gestion
-
       **De juin 2006 à février 2015** Ventadis-Groupe M6 Rungis
-
       *   Construction et mise en place du contrôle de gestion sur les BU (e-commerce
       & Industrie) - Reportings, Forecasts et Processus Budgétaire
       *   Construction et Analyse des KPI's périodiques (Business, Coût de Production,
       suivi et analyse des moyens Marketing)
-
       ## Management
-
       *   Mise en place d'un outil de suivi des coûts de production dans un objectif de
       maîtrise des coûts
-
       ## Analyste Fonctionnel
-
       **De décembre 2004 à juin 2006** Mister Good Deal Chilly Mazarin
-
       *   Optimisation et mise en place d'outils pour le département financier
   </div>
 </div>
