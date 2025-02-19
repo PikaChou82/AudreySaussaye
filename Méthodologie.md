@@ -1,3 +1,12 @@
+---
+title: "💼 Parcours"
+date: 2025-01-21
+---
+<link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
+
+
+<br>
+<br>
 
 
 ## 📋Ma démarche : une approche personnalisée et axée sur les résultats
