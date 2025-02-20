@@ -93,5 +93,5 @@ date: 2025-01-21
       </ul>
       <strong>Lycée JP Timbaud</strong>
       <ul>
-      <li>BACCALAUREAT - Scientique <em>juin 1999</em></li>
+      <li>BACCALAUREAT - Scientifique <em>juin 1999</em></li>
       </ul>
